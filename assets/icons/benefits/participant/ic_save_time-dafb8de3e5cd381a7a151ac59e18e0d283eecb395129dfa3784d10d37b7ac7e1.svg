@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="30px" viewBox="0 0 23 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_save_time</title>
+    <desc>Created with Sketch.</desc>
+    <g id="01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-01-18-Homepage-LeftAligned" transform="translate(-480.000000, -4731.000000)" fill-rule="nonzero">
+            <g id="Group-36" transform="translate(0.000000, 2074.000000)">
+                <g id="Group-28" transform="translate(0.000000, 1330.000000)">
+                    <g id="Group-35">
+                        <g id="Group-22" transform="translate(450.000000, 1083.000000)">
+                            <g id="Group-33" transform="translate(0.000000, 210.000000)">
+                                <g id="Group-27">
+                                    <g id="ic_save_time" transform="translate(30.000000, 34.000000)">
+                                        <path d="M20.4241797,0.9375 L22.9451953,0.9375 L22.9451953,0 L0.0524088542,0 L0.0524088542,0.9375 L2.57522135,0.9375 L2.57522135,10.1126953 L10.5934766,15 L2.57522135,19.8873047 L2.57522135,29.0625 L0.0524088542,29.0625 L0.0524088542,30 L22.9475911,30 L22.9475911,29.0625 L20.4241797,29.0625 L20.4241797,19.8873047 L12.4059245,15 L20.4241797,10.1126953 L20.4241797,0.9375 Z M19.4658464,0.9375 L19.4658464,7.265625 L3.53355469,7.265625 L3.53355469,0.9375 L19.4658464,0.9375 Z M3.53355469,29.0625 L3.53355469,22.734375 L19.4658464,22.734375 L19.4658464,29.0625 L3.53355469,29.0625 Z M19.4658464,20.4076172 L19.4658464,21.796875 L3.53355469,21.796875 L3.53355469,20.4076172 L11.4997005,15.5519531 L19.4658464,20.4076172 Z M11.4997005,14.4480469 L3.53355469,9.59238281 L3.53355469,8.203125 L19.4658464,8.203125 L19.4658464,9.59238281 L11.4997005,14.4480469 Z" id="Shape" fill="#48626F"></path>
+                                        <g id="Group" transform="translate(4.791667, 9.492188)" fill="#00CEB8">
+                                            <rect id="Rectangle" x="0.0580989583" y="14.53125" width="13.3004688" height="3.75"></rect>
+                                            <polygon id="Path" points="1.06764323 0 12.3484245 0 6.70803385 3.43710937"></polygon>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="67px" viewBox="0 0 70 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_meetings</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0102439024 0.148381313 42.8876341 0.148381313 42.8876341 37.4122247 0.0102439024 37.4122247"></polygon>
+    </defs>
+    <g id="01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-03-01-Homepage" transform="translate(-529.000000, -3130.000000)">
+            <g id="Group-36" transform="translate(0.000000, 2602.000000)">
+                <g id="Group-31">
+                    <g id="Group-29" transform="translate(201.000000, 120.000000)">
+                        <g id="Group-26" transform="translate(0.000000, 406.000000)">
+                            <g id="Events-Copy" transform="translate(322.000000, 2.000000)">
+                                <g id="ic_meetings" transform="translate(6.000000, 0.000000)">
+                                    <g id="Group-4">
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <g id="Clip-2"></g>
+                                        <polygon id="Fill-1" fill="#00CEB8" mask="url(#mask-2)" points="5.18990244 5.29147727 37.6977317 5.29147727 37.6977317 21.9403005 8.27314634 21.9403005 5.18990244 24.9950606"></polygon>
+                                        <path d="M0,37.4122247 L0,0.148381313 L42.8876341,0.148381313 L42.8876341,27.0835657 L10.4226585,27.0835657 L0,37.4122247 Z M2.18553659,2.31403788 L2.18553659,32.1850404 L9.51897561,24.9177399 L40.7020976,24.9177399 L40.7020976,2.31403788 L2.18553659,2.31403788 Z" id="Fill-3" fill="#48626F" mask="url(#mask-2)"></path>
+                                    </g>
+                                    <polygon id="Fill-5" fill="#48626F" points="19.9416341 15.1039318 22.9461707 15.1039318 22.9461707 12.1264924 19.9416341 12.1264924"></polygon>
+                                    <polygon id="Fill-6" fill="#48626F" points="12.9923415 15.1039318 15.996878 15.1039318 15.996878 12.1264924 12.9923415 12.1264924"></polygon>
+                                    <polygon id="Fill-7" fill="#48626F" points="26.889561 15.1039318 29.8947805 15.1039318 29.8947805 12.1264924 26.889561 12.1264924"></polygon>
+                                    <path d="M27.043561,29.6551136 L27.043561,56.590298 L59.5087073,56.590298 L69.9320488,66.9196338 L69.9320488,29.6551136 L27.043561,29.6551136 Z M67.7465122,61.6919419 L60.4130732,54.425149 L29.2290976,54.425149 L29.2290976,31.8209394 L67.7465122,31.8209394 L67.7465122,61.6919419 Z" id="Fill-8" fill="#48626F"></path>
+                                    <polygon id="Fill-9" fill="#48626F" points="46.9851951 44.6128636 49.9904146 44.6128636 49.9904146 41.6347475 46.9851951 41.6347475"></polygon>
+                                    <polygon id="Fill-10" fill="#48626F" points="53.9344878 44.6128636 56.9397073 44.6128636 56.9397073 41.6347475 53.9344878 41.6347475"></polygon>
+                                    <polygon id="Fill-11" fill="#48626F" points="40.0372683 44.6128636 43.0424878 44.6128636 43.0424878 41.6347475 40.0372683 41.6347475"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

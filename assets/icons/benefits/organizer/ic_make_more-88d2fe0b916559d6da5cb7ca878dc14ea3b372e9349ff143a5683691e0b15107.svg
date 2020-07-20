@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="26px" viewBox="0 0 30 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_make_more</title>
+    <desc>Created with Sketch.</desc>
+    <g id="01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-01-17-Homepage-Centered" transform="translate(-758.000000, -5174.000000)" fill-rule="nonzero">
+            <g id="Group-36" transform="translate(0.000000, 2219.000000)">
+                <g id="Group-28" transform="translate(0.000000, 1330.000000)">
+                    <g id="Group-35">
+                        <g id="Group-65" transform="translate(450.000000, 1213.000000)">
+                            <g id="Group-48">
+                                <g id="Group-33" transform="translate(0.000000, 80.000000)">
+                                    <g id="Group-27-Copy-3" transform="translate(278.000000, 298.000000)">
+                                        <g id="ic_make_more" transform="translate(30.000000, 34.000000)">
+                                            <g id="Group" transform="translate(11.349355, 0.000000)" fill="#48626F">
+                                                <path d="M6.64911685,25.9801549 L0,25.9801549 L0,10.2587832 L3.32455842,6.9225 L6.64911685,10.2587832 L6.64911685,25.9801549 Z M0.917119565,25.0598009 L5.73199728,25.0598009 L5.73199728,10.6395796 L3.32455842,8.22365044 L0.917119565,10.6395796 L0.917119565,25.0598009 Z" id="Shape"></path>
+                                                <path d="M17.9984715,25.9801549 L11.3493546,25.9801549 L11.3493546,3.35612832 L14.673913,0.0198451327 L17.9984715,3.35612832 L17.9984715,25.9801549 Z M12.2664742,25.0598009 L17.0813519,25.0598009 L17.0813519,3.73692478 L14.673913,1.32099558 L12.2664742,3.73692478 L12.2664742,25.0598009 Z" id="Shape"></path>
+                                            </g>
+                                            <polygon id="Path" fill="#00CEB8" points="24.8768682 23.7943142 24.8768682 4.26152655 26.0232677 3.11108407 27.1696671 4.26152655 27.1696671 23.7943142"></polygon>
+                                            <path d="M6.64911685,25.9801549 L0,25.9801549 L0,17.1614381 L3.32455842,13.8251549 L6.64911685,17.1614381 L6.64911685,25.9801549 Z M0.917119565,25.0598009 L5.73199728,25.0598009 L5.73199728,17.5422345 L3.32455842,15.1263053 L0.917119565,17.5422345 L0.917119565,25.0598009 Z" id="Shape" fill="#48626F"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

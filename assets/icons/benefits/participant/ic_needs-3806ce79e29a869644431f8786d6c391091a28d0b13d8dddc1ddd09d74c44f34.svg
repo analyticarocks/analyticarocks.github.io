@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="24px" viewBox="0 0 30 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_needs</title>
+    <desc>Created with Sketch.</desc>
+    <g id="01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-01-18-Homepage-LeftAligned" transform="translate(-758.000000, -4730.000000)" fill-rule="nonzero">
+            <g id="Group-36" transform="translate(0.000000, 2074.000000)">
+                <g id="Group-28" transform="translate(0.000000, 1330.000000)">
+                    <g id="Group-35">
+                        <g id="Group-22" transform="translate(450.000000, 1083.000000)">
+                            <g id="Group-33" transform="translate(0.000000, 210.000000)">
+                                <g id="Group-27-Copy" transform="translate(278.000000, 0.000000)">
+                                    <g id="ic_needs" transform="translate(30.000000, 33.000000)">
+                                        <g id="Group" fill="#48626F">
+                                            <polygon id="Path" points="9.38332031 17.3430874 10.0571484 18.0129903 14.244668 13.8492816 10.0571484 9.68557282 9.38332031 10.3554757 12.4220508 13.3758641 0 13.3758641 0 14.322699 12.4220508 14.322699"></polygon>
+                                            <path d="M16.0714453,0.0314563107 L16.0714453,3.73001942 L5.83335937,3.73001942 L5.83335937,10.0028155 L6.78574219,10.0028155 L6.78574219,4.67685437 L16.0714453,4.67685437 L16.0714453,23.021767 L6.78574219,23.021767 L6.78574219,17.6958058 L5.83335937,17.6958058 L5.83335937,23.9685437 L30,23.9685437 L30,3.8424466 L16.0714453,0.0314563107 Z M29.0476172,23.0217087 L17.0238281,23.0217087 L17.0238281,1.27415534 L29.0476172,4.56442718 L29.0476172,23.0217087 Z" id="Shape"></path>
+                                        </g>
+                                        <polygon id="Path" fill="#00CEB8" points="18.3333398 21.7198252 18.3333398 2.98258252 27.7381055 5.55623301 27.7381055 21.7198252"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
